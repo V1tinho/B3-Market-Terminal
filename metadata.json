@@ -1,0 +1,5 @@
+{
+  "name": "Remix: B3 Market Terminal",
+  "description": "Sistema integrado de consulta de ativos da B3, liquidação e análise de mercado.",
+  "requestFramePermissions": []
+}
